@@ -1,0 +1,104 @@
+body {
+	background-color: #4192E5;
+	font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+	height: 35px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sign__box {
+	width: 400px;
+	height: 475px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	border-radius: 4px 4px 4px 4px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.sign__heading {
+	color: #565656;
+	padding-top: 30px;
+	text-align: center;
+}
+
+.signup-page fieldset {
+	padding-left: 0;
+	border: none;
+
+}
+
+.signup-page label {
+	display: block;
+	margin-bottom: 15px; 
+}
+
+.signup-page input {
+	display: block;
+	width: 320px;
+	padding: 15px;
+	border: 2px gray solid;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.signup-page button {
+	display: block;
+	width: 360px;
+	height: 55px;
+	background-color: #65C470;
+	border-radius: 4px 4px 4px 4px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sign__button {
+	color: white;
+}
+
+.forgot__div {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.forgot {
+	color: gray;
+	text-align: center;
+	font-size: 12px;
+	font-weight: 500;
+}
+
+h4 {
+	padding-left: 16px;
+	font-weight: 500;
+}
+
+button:hover[type="submit"] {
+	background-color: #519D5A;
+}
+
+.footer {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.already {
+	text-align: center;
+	font-size: 14px;
+	color: white;
+	font-weight: 900;
+}
+
+.log {
+	text-decoration: none;
+	color: white;
+	text-decoration: underline;
+}
